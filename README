@@ -1,3 +1,18 @@
+# HIGHLY EXPERIMENTAL - Bluez v4.101 on ICS for Samsung Captivate Glide / SGH-i927
+
+This will be the try to update bluez to the latest v4 (not v5). 
+
+ICS / CM9 comes with 4.93 but the latest bluez version is 4.101 which
+fixes a lot of things within bluez. I don't want to use v5 because there has been
+many changes related to headset / headset profiles and several things does not work.
+
+Do not expect anything! 
+
+This is absolutely WIP!
+
+Imported from: git://git.kernel.org/pub/scm/bluetooth/bluez.git
+
+
 BlueZ - Bluetooth protocol stack for Linux
 ******************************************
 
